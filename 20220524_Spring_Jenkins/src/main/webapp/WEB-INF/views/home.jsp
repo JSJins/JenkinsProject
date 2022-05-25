@@ -10,5 +10,7 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+<P>  The time on the server is ${serverTime}테스트. </P>
+
 </body>
 </html>
